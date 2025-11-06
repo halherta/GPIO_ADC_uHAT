@@ -7582,7 +7582,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "myparts:rpi_uhat_fpt"
+		(property "Footprint" "myparts:rpi_uhat_fpt_v2"
 			(at 144.78 59.69 0)
 			(effects
 				(font
