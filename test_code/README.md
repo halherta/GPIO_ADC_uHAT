@@ -287,4 +287,4 @@ These drivers are provided as-is for educational and development purposes.
 - Enable I2C and SPI interfaces using `raspi-config` on Raspberry Pi
 - The MCP3208 reference voltage (VREF) determines the maximum measurable voltage
 - For accurate ADC readings, use a stable voltage reference
-- Pull-up resistors on MCP23017 are approximately 100kΩ
+- Pull-up resistors on MCP23017 are approximately 10kΩ
