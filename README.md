@@ -106,10 +106,6 @@ python3 demo.py
 
 This project is open source and available for use under the terms specified in the repository.
 
-## Author
-
-Created by Hussam Halherta - [Hussam Talks Tech](https://hussamtalkstech.com)
-
 ## Related Posts
 
 For more detailed information about this project, visit:
@@ -119,8 +115,6 @@ For more detailed information about this project, visit:
 ## Contributing
 
 Contributions, issues, and feature requests are welcome!
-
-## Acknowledgments
 
 - Designed with KiCad
 - Compatible with Raspberry Pi uHat specification
