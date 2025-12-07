@@ -102,16 +102,6 @@ cd test_code
 python3 demo.py
 ```
 
-## Repository Structure
-
-```
-.
-├── hardware/           # KiCad design files
-├── test_code/         # Python classes and demo program
-├── docs/              # Additional documentation
-└── README.md          # This file
-```
-
 ## License
 
 This project is open source and available for use under the terms specified in the repository.
