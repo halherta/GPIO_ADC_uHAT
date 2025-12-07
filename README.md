@@ -2,7 +2,7 @@
 
 An expansion board (uHat) for the Raspberry Pi Zero 2W that provides additional GPIO and analog input capabilities through I2C and SPI interfaces.
 
-![IO uHat Board](https://hussamtalkstech.com/wp-content/uploads/rpi_io_uhat1-1024x576.jpg)
+![IO uHat Board](https://hussamtalkstech.com/wp-content/uploads/rpi_io_uhat1-scaled.jpg)
 
 ## Features
 
